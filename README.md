@@ -6,3 +6,5 @@ Targeted selective genetic algorithms in computing offload, based on genetic alg
 算法改进过程参考论文中的过程，细节不再赘述。
 
 此代码只用于我本人的毕设，不可用于任何其他场合和商业用途，侵权必究！
+
+代码运行请在打开caculation文件后运行。
